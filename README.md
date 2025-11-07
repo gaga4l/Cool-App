@@ -61,8 +61,8 @@ Users should be able to:
 
 ### Useful resources
 
-- [https://api.open-meteo.com](https://api.open-meteo.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [https://ipwhois.app](https://ipwhois.app) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [https://api.open-meteo.com](https://api.open-meteo.com)
+- [https://ipwhois.app](https://ipwhois.app)
 
 ## Author
 
